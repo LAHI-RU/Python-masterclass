@@ -8,7 +8,8 @@ print('The pet owner said "No, no, \'e\'s uh,...he\'s resting". ')
 # or
 print("The pet owner said \"No, no, 'e's uh,...he's resting'. ")
 
-print("""The pet owner said "No, no, 'e's uh,...he's resting'. """)
+print("""The pet owner said "No, no, \
+'e's uh,...he's resting'. """)
 
 # anotherSplitString = """This string has been
 # split over
@@ -25,3 +26,7 @@ levels \
 """
 
 print(anotherSplitString)
+
+
+print("C:\\Users\\thisaru\\notes.txt")
+print(r"C:\Users\thisaru\notes.txt")

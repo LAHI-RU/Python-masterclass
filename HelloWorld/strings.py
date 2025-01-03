@@ -10,13 +10,13 @@ print(greeting + name)
 # If we want a space, we can add that too
 print(greeting + ' ' + name)
 
-age = 25;
+age = 25
 print(age)
 
 
 print(type(greeting))
 print(type(age))
 
-age = "2 years"
-print(age)
-print(type(age))
+age_in_words = "2 years"
+print(name + "is" + age + " years old")
+# print(type(age))
